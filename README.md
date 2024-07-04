@@ -51,4 +51,3 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Feel free to adjust any parts to better fit your project or add any additional details you think are necessary!
-![image](https://github.com/GauravYXE/Tic-Tac-Toe/assets/147768797/3c6a8995-f1ca-4ff3-88f1-000f012299f4)
